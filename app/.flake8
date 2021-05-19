@@ -5,3 +5,5 @@ exclude =
     manage.py,
     settings.py,
     README.md,
+    admin.py,
+    models.py
